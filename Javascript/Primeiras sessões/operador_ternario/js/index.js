@@ -1,0 +1,1 @@
+console.log("Lucca" == "Lucca" ? "Lógico" : "Não");
