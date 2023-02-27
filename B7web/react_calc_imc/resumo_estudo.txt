@@ -1,0 +1,6 @@
+Primeiro dia:
+
+Realizei o começo da estruturação do projeto,
+4 aulas assistidas e já foi feito o campo de
+inserir a altura e o peso, realizando a 
+estilização dos elementos.
